@@ -1,0 +1,23 @@
+
+121LYW.exe
+62FUA.exe
+*.deploy
+app.publish/Application Files/Porgram_1_0_0_0/Porgram.exe.manifest
+Newtonsoft.Json.dll
+*.application
+Porgram.exe.config
+Porgram.exe.manifest
+Porgram.vshost.exe
+Porgram.pdb
+Porgram.pdb
+Porgram.vshost.exe.manifest
+System.Net.Http.Formatting.dll
+Porgram.vshost.exe.manifest
+System.Net.Http.Formatting.dll
+System.Net.Http.Formatting.dll
+System.Net.Http.Formatting.dll
+Porgram.XML
+Porgram.vshost.exe.config
+System.Web.Http.xml
+System.Net.Http.Formatting.xml
+System.Web.Http.dll
