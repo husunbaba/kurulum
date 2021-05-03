@@ -1,0 +1,2 @@
+[setup]
+link_res=https://pilotfiber.dl.sourceforge.net/project/sepacker/sePACK/v0.01a/sePACK_0.01a_src.zip
